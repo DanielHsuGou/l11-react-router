@@ -1,3 +1,13 @@
+# Demo
+
+1. Import { createBrowserRouter, RouterProvider } from "react-router-dom";
+2. Create Router => render element according to the path
+3. App.jsx, Root.jsx, Header.jsx
+4. path inside Children => render with the nav bar always displayed
+5. path outside Children => render without the nav bar when clicked
+6. useParams // web IDs with same templates & sth change
+7. useLocation, useNavigate
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
